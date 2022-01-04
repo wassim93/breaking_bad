@@ -1,4 +1,5 @@
 import React from "react";
+import CharacterIem from "./CharacterIem";
 import Spinner from "./Spinner";
 
 const CharacterGrid = ({ items, isLoading }) => {
@@ -7,7 +8,7 @@ const CharacterGrid = ({ items, isLoading }) => {
   ) : (
     <section className="cards">
       {items.map((it) => (
-        <h1 key={it.char_id}>{it.name}</h1>
+        <CharacterIem key={it.char_id} item={it} />
       ))}
     </section>
   );
