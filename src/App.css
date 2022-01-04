@@ -31,3 +31,14 @@ header img {
   justify-content: center;
   align-items: center;
 }
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2em;
+}
+.spinner {
+  display: block;
+  margin: auto;
+  width: 200px;
+}
