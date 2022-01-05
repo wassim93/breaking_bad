@@ -1,3 +1,19 @@
+# BREAKING BAD CAST WEB APP
+* React Js (functional components with hooks)
+* Breaking Bad API
+* https://breakingbadapi.com/documentation
+
+Screenshots: 
+
+Home Page UI
+
+<img src="https://github.com/wassim93/breaking_bad/blob/master/Screenshots/home.PNG" width=50% height=50%>
+
+Search Page 
+
+<img src="https://github.com/wassim93/breaking_bad/blob/master/Screenshots/search.PNG" width=50% height=50%>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
